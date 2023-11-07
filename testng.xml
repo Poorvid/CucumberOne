@@ -4,7 +4,7 @@
     <test name="Test Basics 1">
 
         <classes>
-            <class name="practiceTests.testParameters"/>
+            <class name="testrunner.cucumberrunner"/>
         </classes>
     </test> <!-- Test -->
 
