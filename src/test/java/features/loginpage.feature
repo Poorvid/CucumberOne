@@ -1,5 +1,6 @@
 Feature: Login Functionality of Swag Labs
 
+ @TestCaseKey=P1-T3
  Scenario Outline: Verify Login with Valid and Invalid Credentials
    Given the user is on the login page
    When  the user enters username "<username>" and password "<password>"
